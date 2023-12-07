@@ -4,6 +4,8 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5434414841106223"
+     crossorigin="anonymous"></script>
       <Title>Hello World</Title>
       <h1>Hello worl!</h1>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5434414841106223"
