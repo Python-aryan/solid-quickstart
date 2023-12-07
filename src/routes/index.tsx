@@ -7,7 +7,14 @@ export default function Home() {
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5434414841106223"
      crossorigin="anonymous"></script>
       <Title>Hello World</Title>
-      <h1>Hello worl!</h1>
+      <h1>Hello world!</h1>
+      <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-md-10 mx-auto">
+        <p>Hi I Am Aryan Sonone. I Love Python Programing Language. I am learning this from CodeWithHarry. And I am a good boy. </p>
+      </div>
+    </div>
+  </div>
       <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5434414841106223"
      crossorigin="anonymous"></script>
       <Counter />
